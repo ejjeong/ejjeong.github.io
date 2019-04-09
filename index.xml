@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eunji Jeong on Eunji Jeong</title>
+    <link>https://ejjeong.github.io/</link>
+    <description>Recent content in Eunji Jeong on Eunji Jeong</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 14 Oct 2019 23:15:29 +0900</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Stage-based Hyper-parameter Optimization for Deep Learning</title>
+      <link>https://ejjeong.github.io/publication/hippo/</link>
+      <pubDate>Mon, 14 Oct 2019 23:15:29 +0900</pubDate>
+      
+      <guid>https://ejjeong.github.io/publication/hippo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Speculative Symbolic Graph Execution of Imperative Deep Learning Programs</title>
+      <link>https://ejjeong.github.io/publication/janus-osr19/</link>
+      <pubDate>Tue, 06 Aug 2019 23:15:29 +0900</pubDate>
+      
+      <guid>https://ejjeong.github.io/publication/janus-osr19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Demonstration of JANUS: Fast and Flexible Deep Learning via Symbolic Graph Execution of Imperative Programs</title>
+      <link>https://ejjeong.github.io/publication/janus-sysml19/</link>
+      <pubDate>Sat, 30 Mar 2019 15:36:12 -0700</pubDate>
+      
+      <guid>https://ejjeong.github.io/publication/janus-sysml19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parallax: Sparsity-aware Data Parallel Training of Deep Neural Networks</title>
+      <link>https://ejjeong.github.io/publication/parallax-eurosys19/</link>
+      <pubDate>Mon, 25 Mar 2019 15:04:54 -0700</pubDate>
+      
+      <guid>https://ejjeong.github.io/publication/parallax-eurosys19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JANUS: Fast and Flexible Deep Learning via Symbolic Graph Execution of Imperative Programs</title>
+      <link>https://ejjeong.github.io/publication/janus-nsdi19/</link>
+      <pubDate>Wed, 27 Feb 2019 13:15:59 -0700</pubDate>
+      
+      <guid>https://ejjeong.github.io/publication/janus-nsdi19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving the Expressiveness of Deep Learning Frameworks with Recursion</title>
+      <link>https://ejjeong.github.io/publication/rdag-eurosys18/</link>
+      <pubDate>Mon, 23 Apr 2018 13:27:48 -0700</pubDate>
+      
+      <guid>https://ejjeong.github.io/publication/rdag-eurosys18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Auto-Parallelizing Deep Learning for Multi-machine, Multi-GPU Environments</title>
+      <link>https://ejjeong.github.io/publication/parallax-sosp17/</link>
+      <pubDate>Mon, 30 Oct 2017 15:37:08 -0700</pubDate>
+      
+      <guid>https://ejjeong.github.io/publication/parallax-sosp17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OS-less Dynamic Binary Instrumentation for Embedded Firmware</title>
+      <link>https://ejjeong.github.io/publication/coolchips-xviii/</link>
+      <pubDate>Sat, 30 May 2015 15:33:51 -0700</pubDate>
+      
+      <guid>https://ejjeong.github.io/publication/coolchips-xviii/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>(Thesis) Reliable basic block coverage analysis of optimized program using dynamic binary analysis</title>
+      <link>https://ejjeong.github.io/publication/master-thesis/</link>
+      <pubDate>Fri, 30 Aug 2013 00:00:00 +0900</pubDate>
+      
+      <guid>https://ejjeong.github.io/publication/master-thesis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
